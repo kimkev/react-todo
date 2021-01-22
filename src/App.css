@@ -13,6 +13,18 @@ header {
   font-size: 2rem;
 }
 
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 15%;
+  background-color: rgb(194, 238, 255);
+  color: white;
+  text-align: center;
+}
+
+
 header,
 form {
   min-height: 20vh;

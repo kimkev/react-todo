@@ -63,6 +63,9 @@ function App() {
         todos={todos}
         filteredTodos={filteredTodos}
       />
+      <footer className="footer">
+        <a href="./index.html" target="_self">Back to Home Page</a>
+      </footer>
     </div>
   );
 }
