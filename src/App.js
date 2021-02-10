@@ -64,7 +64,7 @@ function App() {
         filteredTodos={filteredTodos}
       />
       <footer className="footer">
-        <a href="https://kimkev.github.io/" target="_self">Back to Home Page</a>
+        <a href="https://kimkev.github.io/assets/html/ReactPage.html" target="_self">Back to Home Page</a>
       </footer>
     </div>
   );
